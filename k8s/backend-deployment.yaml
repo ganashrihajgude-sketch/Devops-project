@@ -25,7 +25,7 @@ spec:
 
         - name: backend
 
-          image: ganashri/backend-img
+          image: ganashri/backend-img:latest
 
           imagePullPolicy: Always
 

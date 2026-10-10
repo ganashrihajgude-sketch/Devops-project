@@ -25,7 +25,7 @@ spec:
 
         - name: frontend
 
-          image: ganashri/fronted-imgs
+          image: ganashri/fronted-img:latest
 
           imagePullPolicy: Always
 
